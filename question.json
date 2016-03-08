@@ -1,0 +1,22 @@
+[
+        {
+            text: " Which of the following occurs in the stroma of the chloroplast?", 
+            answer: "Calvin Cycle"
+        },
+        {
+            text: "The oxygen produced in photosynthesis comes from what molecule?", 
+            answer: "Water"
+        },
+                {
+            text: " The photosynthetic process used by some plants to survive in a hot dry climate, like the desert?", 
+            answer: "C4 Photosynthesis"
+        },
+        {
+            text: " Which of the following is NOT a produce of the light dependent reaction?", 
+            answer: "Sugar"
+        },
+        {
+            text: "Which of the following i the source of the carbon in sugar produced during photosynthesis? ", 
+            answer: "Carbon Dioxide"
+        },
+    ];

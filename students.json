@@ -1,0 +1,27 @@
+[
+        {
+            name: "Tim Terry",
+            correct: 0,
+            incorrect: 0
+        },
+        {
+            name: "Dan Morgan",
+            correct: 0,
+            incorrect: 0
+        },
+                {
+            name: "Josh Diaz",
+            correct: 0,
+            incorrect: 0
+        },
+                {
+            name: "Sherl Proctor",
+            correct: 0,
+            incorrect: 0
+        },
+                {
+            name: "Andy Justus",
+            correct: 0,
+            incorrect: 0
+        }
+    ];
